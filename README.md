@@ -62,7 +62,3 @@ The app is developed using Android Studio and Java. It utilizes an SQLite databa
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Note:** This README is a template and should be customized based on the specifics of your project.
